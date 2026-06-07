@@ -98,5 +98,5 @@ api-testing-serverest/
 
 **João Vitor de Souza Lemos**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joao--vitor--de--souza--lemos-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joao-vitor-de-souza-lemos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaolemos2004-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaolemos2004)
 [![GitHub](https://img.shields.io/badge/GitHub-joao--vitor--de--souza--lemos-black?style=flat&logo=github)](https://github.com/joao-vitor-de-souza-lemos)
