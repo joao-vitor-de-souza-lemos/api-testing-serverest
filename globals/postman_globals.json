@@ -1,0 +1,51 @@
+{
+	"id": "9b43de4a-66a0-4263-8006-66007115b657",
+	"values": [
+		{
+			"key": "accessToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "nome",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "randomProduct",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "newProductId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "João Vitor de Souza Lemos's Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2026-06-07T20:47:28.853Z",
+	"_postman_exported_using": "Postman/12.13.6-260605-0232"
+}
